@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ROOM</string>
+    <!--text views (tv)-->
+    <string name="tw_student_title">Student data</string>
+    <!--edit text views (et)-->
+    <string name="et_first_name_hint">First name</string>
+    <string name="et_last_name_hint">Last name</string>
+    <string name="et_roll_number_hint">Roll number</string>
+    <!--buttons (btn)-->
+    <string name="btn_write_data">Write</string>
+    <string name="btn_read_data">Read</string>
+    <string name="btn_clear_all_data">Clear data</string>
+    <!--Toasts -->
+    <string name="student_added">Studend added successfully</string>
+    <string name="db_error">Something went wrong</string>
+</resources>
